@@ -1,12 +1,20 @@
-# Gabriel Kaique Correia da Luz
-
-**Desenvolvedor de Software em formação** — Curso Técnico em Análise e Desenvolvimento de Sistemas
-(SENAI), Ponta Grossa — PR.
-
-Trabalho com **Python**, **C++** e **desenvolvimento web**, e uso **Inteligência Artificial aplicada**
-(integração com LLMs via API e engenharia de prompt) como ferramenta no meu fluxo de desenvolvimento.
-
-**[Ver meu portfólio completo](https://kaka198977.github.io/portifolio/)**
+<table>
+  <tr>
+    <td width="230" valign="top">
+      <img src="foto.jpg" alt="Gabriel Kaique Correia da Luz" width="215" />
+    </td>
+    <td valign="top">
+      <h1>Gabriel Kaique Correia da Luz</h1>
+      <p><strong>Desenvolvedor de Software em formação</strong> — Curso Técnico em Análise e Desenvolvimento de Sistemas (SENAI), Ponta Grossa — PR.</p>
+      <p>Trabalho com <strong>Python</strong>, <strong>C++</strong> e <strong>desenvolvimento web</strong>, e uso <strong>Inteligência Artificial aplicada</strong> (integração com LLMs via API e engenharia de prompt) como ferramenta no meu fluxo de desenvolvimento.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20oportunidades-22c55e?style=flat-square" alt="Disponível para oportunidades" />
+        <img src="https://img.shields.io/badge/Ponta%20Grossa-PR-6c5ce7?style=flat-square" alt="Ponta Grossa, PR" />
+      </p>
+      <p><a href="https://kaka198977.github.io/portifolio/"><strong>Conheça meu portfólio completo</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,4 +68,4 @@ Projeto interdisciplinar em equipe (Equipe Trupe — SENAI), publicado online. F
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-kaique-correia-da-luz-a88342341)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreialuz2000@gmail.com)
 [![Portf%C3%B3lio](https://img.shields.io/badge/Portf%C3%B3lio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaka198977.github.io/portifolio/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542991275048)
+[![Curr%C3%ADculo](https://img.shields.io/badge/Curr%C3%ADculo%20em%20PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kaka198977.github.io/portifolio/curriculo.pdf)
